@@ -1,5 +1,5 @@
 ﻿using System;
-using Ploeh.AutoFixture.Xunit;
+using Ploeh.AutoFixture.Xunit2;
 using Xunit;
 
 namespace UnitTestProjectWithAutofixtureAndXunit
